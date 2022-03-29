@@ -1,0 +1,31 @@
+[33mcommit d4821830fd7084af6f530c5000597173c8794371[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m
+Merge: a51bdb9 ccbb8ac
+Author: kimjisoo <kimjisoo3653@nate.com>
+Date:   Tue Mar 29 23:43:23 2022 +0900
+
+    Merge branch 'join_topic' into dev
+
+[33mcommit ccbb8acd85e3a4367db7e4a0da53a2957809747a[m[33m ([m[1;32mjoin_topic[m[33m)[m
+Author: kimjisoo <kimjisoo3653@nate.com>
+Date:   Tue Mar 29 23:41:29 2022 +0900
+
+    2.회원가입완료
+
+[33mcommit a51bdb9c6812113b6f917b2c53e735505c8b1cfc[m
+Merge: 3490a54 d92eeb0
+Author: kimjisoo <kimjisoo3653@nate.com>
+Date:   Tue Mar 29 23:39:37 2022 +0900
+
+    Merge branch 'setting_topic' into dev
+
+[33mcommit d92eeb08c3d9fed3685cdb06680377130dc74cce[m[33m ([m[1;32msetting_topic[m[33m)[m
+Author: kimjisoo <kimjisoo3653@nate.com>
+Date:   Tue Mar 29 23:37:32 2022 +0900
+
+    환경설정 완료
+
+[33mcommit 3490a540a23caefcd4518411ccf696cc970dc2f3[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: kjs1122 <91230422+kjs1122@users.noreply.github.com>
+Date:   Tue Mar 29 23:31:39 2022 +0900
+
+    Create README.md
